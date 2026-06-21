@@ -13,7 +13,7 @@ No external dependencies are required. Just ensure you have Python 3.x installed
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/Tic_Tac_Toe.git](https://github.com/Atul-Ch/Tic_Tac_Toe.git)
+git clone [https://github.com/Atul-Ch/Tic-Tac-Toe-Python.git](https://github.com/Atul-Ch/Tic-Tac-Toe-Python.git)
 
 # Navigate to the project directory
-cd Tic_Tac_Toe Project
+cd Tic-Tac-Toe-Python
